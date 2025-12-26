@@ -27,20 +27,6 @@ I currently engineer OCPP 1.6 compliant servers and charging infrastructure.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <a href="https://github.com/jayeshmahajn">
-    <img src="https://github-readme-stats.vercel.app/api?username=jayeshmahajn&show_icons=true&theme=radical" alt="Jayesh's Stats" />
-  </a>
-  
-  <a href="https://github.com/jayeshmahajn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshmahajn&theme=radical" alt="Jayesh's Streak" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Connect with Me
