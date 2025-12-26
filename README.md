@@ -33,9 +33,8 @@ I currently engineer OCPP 1.6 compliant servers and charging infrastructure.
 ### 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/jayeshmahajn">
-    <img src="https://github-readme-stats.vercel.app/api?username=jayeshmahajn&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Jayesh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jayeshmahajn&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Jayesh's Stats" />
   </a>
-  
   <a href="https://github.com/jayeshmahajn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshmahajn&theme=radical&hide_border=true" alt="Jayesh's Streak" />
   </a>
