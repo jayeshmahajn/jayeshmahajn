@@ -32,7 +32,7 @@ I currently engineer OCPP 1.6 compliant servers and charging infrastructure.
 
 ### 📊 GitHub Stats
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME_HERE">
+<a href="https://github.com/jayesh mahajan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical"/>
 </a>
