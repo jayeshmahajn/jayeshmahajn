@@ -30,5 +30,18 @@ I currently engineer OCPP 1.6 compliant servers and charging infrastructure.
 
 ---
 
+### 📊 GitHub Stats
+<p align="left">
+  <a href="https://github.com/jayeshmahajn">
+    <img src="https://github-readme-stats.vercel.app/api?username=jayeshmahajn&show_icons=true&theme=radical" alt="Jayesh's Stats" />
+  </a>
+  
+  <a href="https://github.com/jayeshmahajn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshmahajn&theme=radical" alt="Jayesh's Streak" />
+  </a>
+</p>
+
+---
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-mahajan-96b16328a/)
